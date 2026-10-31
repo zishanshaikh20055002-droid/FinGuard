@@ -1,0 +1,1 @@
+"""FinGuard backend application."""
